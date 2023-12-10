@@ -1,0 +1,18 @@
+cd /home/shond/Desktop
+mkdir Havtman
+cd Havtman
+mkdir BBB
+mkdir CCC
+mkdir DDD
+cd CCC
+touch Havtman.txt
+cd ..
+cd DDD
+touch Nazar.txt
+echo "nazarhavtman@gmail.com" >> Nazar.txt
+cd .. 
+cd CCC
+echo "10.12.2023 KI-405"
+cd ..
+cd .. 
+cp -r Desktop/shond/home/
